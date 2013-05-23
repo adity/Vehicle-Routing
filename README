@@ -1,3 +1,18 @@
-Column Generation
+This project focuses on the set covering based formulation for the capacitated vehicle routing 
+problem (CVRP). A column generation approach based on dynamic programming has been used to find 
+the lower bound for the optimal solution.
 
+The following libraries need to be installed for the code to run
+ NumPy
+ Matplotlib
+ Networkx
+ Gurobi(Commmercial MIP solver)
+
+
+
+
+For detailed analysis, please refer to 
+The Vehicle Routing Problem
+
+By
 Toth & Vigo
